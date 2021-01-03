@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Building React frontends with TypeScript. En route to Fullstack.
+Senior Full Stack Engineer
 
 
 <!--
